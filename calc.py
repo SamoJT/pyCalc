@@ -139,7 +139,7 @@ class Gui:
 def main():
     root = Tk()
     gui = Gui(root)
-    #root.geometry('%dx%d' % (500,460))
+    root.geometry('%dx%d' % (137,150))
     root.mainloop()
 
 if __name__ == '__main__':
